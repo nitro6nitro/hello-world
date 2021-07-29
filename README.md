@@ -1,3 +1,3 @@
-# hello-world 🔮
+# hello-world
 
 Halo everyone, deriel here.
